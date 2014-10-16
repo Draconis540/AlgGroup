@@ -4,7 +4,7 @@ LDFLAGS =
 #replace this if you want to change the output name
 TARGET = alg1
 TARGET2 = alg2
-TARGET2 = alg3
+TARGET3 = alg3
 
 #any headers go here
 INCLUDES =
